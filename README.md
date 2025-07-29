@@ -25,7 +25,7 @@ A clean and interactive Attendance Calculator that helps students keep track of 
     ```
 4. **Open Project**
    ```
-   open main.html
+   open index.html
    ```
 ## 📧 Contact
 - **GitHub:** [chandrakant-T](https://github.com/chandrakant-T)
