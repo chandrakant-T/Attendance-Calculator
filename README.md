@@ -13,6 +13,9 @@ A clean and interactive Attendance Calculator that helps students keep track of 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 ## For Now Its Optimized For Desktops,Laptops
+## Live Demo 
+   ## 🔗 Live Demo  
+[Click Here to View the Attendance Calculator](https://chandrakant-t.github.io/Attendance-Calculator/)
 
 ## 🚀 How to Run the Project
 1. **Clone the repository:**
